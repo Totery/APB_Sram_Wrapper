@@ -1,0 +1,118 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/86189/Desktop/FPGA/practice/4_UART_Loopback/sim
+T_opt
+!s110 1732896747
+V67a[ANjlW;ogKde=[FR6_0
+04 2 4 work tb fast 0
+=1-802bf9a64bfb-6749e7eb-235-5568
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.4c;61
+vapb_inf
+Z0 !s110 1732896741
+!i10b 1
+!s100 OkBg]fl]cOd63[E9gGOUJ3
+IEZN1F@4[IDFI8nP^]RWMD2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/86189/Desktop/IC/Bus/APB/work
+w1732896714
+8C:/Users/86189/Desktop/IC/Bus/APB/rtl/apb_inf.v
+FC:/Users/86189/Desktop/IC/Bus/APB/rtl/apb_inf.v
+L0 1
+Z3 OL;L;10.4c;61
+r1
+!s85 0
+31
+Z4 !s108 1732896741.000000
+!s107 C:/Users/86189/Desktop/IC/Bus/APB/rtl/apb_inf.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/86189/Desktop/IC/Bus/APB/rtl/apb_inf.v|
+!i113 0
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+vapb_ms_model
+!s110 1732896152
+!i10b 1
+!s100 j_j`f_35@o`UO]c;bmzAC0
+IJ8InN=mF]_4MOn9Y86gMg1
+R1
+R2
+w1732896130
+8C:/Users/86189/Desktop/IC/Bus/APB/sim/apb_ms_model.v
+FC:/Users/86189/Desktop/IC/Bus/APB/sim/apb_ms_model.v
+L0 5
+R3
+r1
+!s85 0
+31
+!s108 1732896152.000000
+!s107 C:/Users/86189/Desktop/IC/Bus/APB/sim/apb_ms_model.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/86189/Desktop/IC/Bus/APB/sim/apb_ms_model.v|
+!i113 0
+R5
+vapb_sram
+R0
+!i10b 1
+!s100 6ejXRGAD=GE0?CH3ml><@1
+If7lkKH0HAl7FZ3bTGA=Tl0
+R1
+R2
+w1732896617
+8C:/Users/86189/Desktop/IC/Bus/APB/rtl/apb_sram.v
+FC:/Users/86189/Desktop/IC/Bus/APB/rtl/apb_sram.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/86189/Desktop/IC/Bus/APB/rtl/apb_sram.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/86189/Desktop/IC/Bus/APB/rtl/apb_sram.v|
+!i113 0
+R5
+vsp_sram_wbe4
+!s110 1732890357
+!i10b 1
+!s100 XAza0`c`OUmQQ`Oz_b4=01
+I?XD]a8OQlF?SM1Y4A82;H2
+R1
+R2
+w1732890347
+8C:/Users/86189/Desktop/IC/Bus/APB/rtl/sp_sram_wbe4.v
+FC:/Users/86189/Desktop/IC/Bus/APB/rtl/sp_sram_wbe4.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1732890357.000000
+!s107 C:/Users/86189/Desktop/IC/Bus/APB/rtl/sp_sram_wbe4.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/86189/Desktop/IC/Bus/APB/rtl/sp_sram_wbe4.v|
+!i113 0
+R5
+vtb
+!s110 1732894704
+!i10b 1
+!s100 =dEa<Imh8i_:?W`1Y;kD<0
+IGDY`k<10VXNfYLkm2dfg]3
+R1
+R2
+w1732894692
+8C:/Users/86189/Desktop/IC/Bus/APB/sim/tb.v
+FC:/Users/86189/Desktop/IC/Bus/APB/sim/tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1732894704.000000
+!s107 C:/Users/86189/Desktop/IC/Bus/APB/sim/tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/86189/Desktop/IC/Bus/APB/sim/tb.v|
+!i113 0
+R5
